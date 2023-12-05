@@ -1,8 +1,7 @@
 # Library
 #Basic online library made by me
 
-# Consegui melhorar a classe Usuario em relação a ultima atividade,
-# adicionei mais livros e consegui dividi-los em categorias.
+
 
 import datetime
 
